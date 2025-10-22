@@ -1,4 +1,4 @@
-# archlinux-arm-rpi4
+# archlinux-arm-cm5
 
 Specific script for installing archlinux arm into a raspberry pi 4 64 bits. [Github Pages](https://cleta-llc.github.io/archlinux-arm-rpi4/)
 
